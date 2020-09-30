@@ -1,3 +1,4 @@
+//this is a program to check weather a string is palindrome or not
 #include <stdio.h>
 #include <string.h>
 
